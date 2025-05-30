@@ -8,7 +8,7 @@
 Desenvolvedor de Software com experiência em desenvolvimento web e mobile. Apaixonado por tecnologia, inovação e soluções que impactam positivamente a vida das pessoas.
 
 - 🔭 Atualmente trabalhando com Vue.JS
-- 🌱 Aprendendo Java, Sprint Boot, Elixir e Node.js
+- 🌱 Aprendendo Java, Sprint Boot, Elixir, Node.js e SQL
 - 📫 Como me encontrar: andresonjazz@gmail.com
 - 😄 Pronomes: ele/dele
 
