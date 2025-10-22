@@ -10,7 +10,7 @@ Desenvolvedor de Software com experiência em desenvolvimento web e mobile. Apai
 - 🔭 Atualmente trabalhando com Vue.JS
 - 🌱 Aprendendo Java, Sprint Boot, Elixir, Node.js e SQL
 - 📫 Como me encontrar: [andresonsouza.com](https://www.andresonsouza.com/)
-- 😄 Pronomes: ele/dele
+
 
 ## Habilidades Técnicas
 
