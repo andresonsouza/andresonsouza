@@ -28,13 +28,10 @@ Desenvolvedor de Software com experiência em desenvolvimento web e mobile. Apai
 ![PrimeFaces](https://img.shields.io/badge/PrimeFaces-263238.svg?style=for-the-badge&logo=PrimeFaces&logoColor=white)
 ![Primevue](https://img.shields.io/badge/PrimeVue-41B883.svg?style=for-the-badge&logo=PrimeVue&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-050A14.svg?style=for-the-badge&logo=Quasar&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=Nuxt&logoColor=white)
 
 ### Back-end
 [![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
